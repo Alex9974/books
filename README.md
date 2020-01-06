@@ -30,7 +30,11 @@ git commit -m "Texte de présentation du Commit `Enregistrement du Commit dans G
 git push
 
 
+`POUR RECUPERER LES DONNEES DEPUIS LE SERVEUR VERS LE TRAVAIL ACTUEL`
 
+git pull
+
+git push
 
 
 
